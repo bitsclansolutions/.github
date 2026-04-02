@@ -1,4 +1,4 @@
-# 👋 Welcome to Bitsclan IT Solutions
+# Welcome to Bitsclan IT Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verified-Organization-brightgreen?style=for-the-badge" alt="Verified" />
